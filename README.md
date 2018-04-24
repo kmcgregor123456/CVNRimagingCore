@@ -1,5 +1,4 @@
-ATTENTION: April 24, 2018, pano, ralpha and lens will be at MAXIMUM capacity until 2:30PM. Apologies for the inconvenience.
-
+# ATTENTION: April 24, 2018, pano, ralpha and lens will be at MAXIMUM capacity until 2:30PM. Apologies for the inconvenience.
 
 This public repository tracks *IT and operations* (i.e., not science) for the Neuroimaging Core @ Atlanta VA CVNR / Emory University Department of Neurology. 
 
