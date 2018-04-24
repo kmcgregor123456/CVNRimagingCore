@@ -1,4 +1,11 @@
-This public repository tracks *IT and operations* (i.e., not science) for the Neuroimaging Core @ Atlanta VA CVNR / Emory University Department of Neurology. Until project portfolio management is implemented elsewhere, this repo centralizes our non-sensitive ops content:
+ATTENTION: April 24, 2018, pano, ralpha and lens will be at MAXIMUM capacity until 2:30PM. Apologies for the inconvenience.
+
+
+This public repository tracks *IT and operations* (i.e., not science) for the Neuroimaging Core @ Atlanta VA CVNR / Emory University Department of Neurology. 
+
+
+
+Until project portfolio management is implemented elsewhere, this repo centralizes our non-sensitive ops content:
   - issue tracking
   - system documentation for workstations, servers, and VMs
   - budgeting and forecasting
