@@ -8,5 +8,4 @@ wireles: off
 SECURITY:
 password-protected BIOS
 FIPS 140-2 whole-disk encrypted
-zero remote directory accounts (AD, LDAP, etc.)
-one local account: stowler-local
+zero remote directory accounts (AD, LDAP, etc
