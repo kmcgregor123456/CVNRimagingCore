@@ -1,4 +1,4 @@
-# TELOMERE IS CURRENTLY DOWN. WORKING TO REPAIR.
+# TELOMERE IS CURRENTLY DOWN. WORKING TO REPAIR. Replaced hard disk drive.
 
 This public repository tracks *IT and operations* (i.e., not science) for the Neuroimaging Core @ Atlanta VA CVNR / Emory University Department of Neurology. 
 
