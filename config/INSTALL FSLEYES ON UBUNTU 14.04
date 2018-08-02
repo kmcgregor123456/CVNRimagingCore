@@ -1,0 +1,7 @@
+sudo aptitude build-dep mesa
+sudo aptitude install scons llvm-dev
+apt-get source mesa
+cd mesa
+scons libgl-xlib
+export LD_LIBRARY_PATH=`pwd`/build/linux-x86_64-debug/gallium/targets/libgl-xlib/:${LD_LIBRARY_PATH}
+glxinfo | grep 'GLX version:'
