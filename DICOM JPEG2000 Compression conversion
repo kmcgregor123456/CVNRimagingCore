@@ -1,0 +1,14 @@
+If you have a DICOM with JPG2000, dcm2nii will not convert it.
+
+You need to use the program gdcm to write the DICOM back to raw
+
+use this command: gdcmconv.fs -w -i infile -o outfile
+
+or batch it...
+#!/bin/tcsh
+
+foreach file (IM-0001-0001-0001.dcm  IM-0001-0016-0001.dcm  IM-0001-0031-0001.dcm  IM-0001-0046-0001.dcm )
+
+gdcmconv.fs -w -i $file -o 'dec_'$file
+
+end
